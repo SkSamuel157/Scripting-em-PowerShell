@@ -1,6 +1,6 @@
-### **1. Parte 01**
+### **Parte 01**
 
-```markdown
+
 # Automação de Criação de Usuários e Grupos no Active Directory
 
 ## Descrição
@@ -46,6 +46,5 @@ Usuário carlos_silva adicionado ao grupo TI com sucesso.
 Usuário carlos_silva está corretamente no grupo TI.
 ```
 
-## Conclusão
-
-Este script automatiza com sucesso a criação de usuários, a atribuição de senhas temporárias e a adição dos usuários aos grupos correspondentes no Active Directory. O processo foi validado e testado, garantindo que todos os usuários foram criados corretamente e associados aos grupos de acordo com os dados do arquivo CSV.
+## OBS:
+Pedi pro GPT Fazer a Documentação (Não tive tempo de fazer desculpa)
